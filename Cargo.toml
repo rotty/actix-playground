@@ -1,0 +1,9 @@
+[package]
+name = "actix-http-client"
+version = "0.1.0"
+authors = ["Andreas Rottmann <a.rottmann@gmx.at>"]
+
+[dependencies]
+actix-web = "0.7"
+futures = "0.1"
+tokio-timer = "0.2"
